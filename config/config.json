@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Megan@2019",
+    "database": "food_security_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Megan@2019",
+    "database": "food_security_db_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Megan@2019",
+    "database": "food_security_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
